@@ -13,3 +13,6 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 <img src="1.PNG">
+<img src="2.PNG">
+<img src="3.PNG">
+<img src="4.PNG">
